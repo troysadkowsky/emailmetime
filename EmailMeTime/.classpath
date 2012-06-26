@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/occideas/Desktop/gdata/java/lib/gdata-core-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/occideas/Desktop/gdata/java/lib/gdata-spreadsheet-3.0.jar"/>
+	<classpathentry kind="lib" path="/home/occideas/Desktop/javamail-1.4.4/mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
